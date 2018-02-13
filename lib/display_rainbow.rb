@@ -6,8 +6,6 @@ def display_rainbow
   puts "R:#{colors[0]}"
 end
 
-
-
 display_rainbow
 
  
